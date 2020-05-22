@@ -1,0 +1,19 @@
+{
+  "name": "webshop",
+  "version": "1.0.0",
+  "description": "Online web shop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "online",
+    "prodaja",
+    "obuce"
+  ],
+  "author": "Nikola Jeremic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
